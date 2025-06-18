@@ -1,6 +1,6 @@
 <h3 align="center">Hi 👋, I'm </h3>
 <h3 align="center">A passionate Full stack UI,PYTHON, JAVA developer from India</h3>
-<img align="right" alt="Coding" width="400" src=https://img.freepik.com/premium-photo/female-developer-background_665280-9660.jpg;
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
 - 🔭 I’m currently working on **Employee project**
 
